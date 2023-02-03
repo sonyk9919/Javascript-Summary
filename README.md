@@ -17,3 +17,8 @@
 - [함수](chapter1/함수.md)
 - [다양한 형태의 함수](chapter1/여러가지함수.md)
 - [스코프](chapter1/스코프.md)
+- [TDZ](chapter1/TDZ.md)
+- [내부 슬롯과 내부 메소드 그리고 프로퍼티 어트리뷰트](chapter1/프로퍼티어트리뷰트.md)
+- [객체의 변경방지](chapter1/객체변경방지.md)
+- [생성자 함수](chapter1/생성자함수.md)
+- [일급 객체](chapter1/일급객체.md)
