@@ -25,3 +25,4 @@
 - [프로토타입](chapter1/프로토타입.md)
 - [엄격모드](chapter1/엄격모드.md)
 - [빌트인 객체](chapter1/빌트인객체.md)
+- [this](chapter1/this.md)
